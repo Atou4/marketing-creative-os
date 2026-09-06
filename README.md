@@ -6,6 +6,8 @@ updated: 2026-09-06
 
 # Marketing Creative OS
 
+Browser version: [open the HTML guidebook](README.html).
+
 Marketing Creative OS is an Obsidian knowledge base for turning brand knowledge, research, and performance learning into better marketing. It is designed to be useful to a nontechnical marketer: open the vault, ask a clear question, review the answer, and keep the approved learning.
 
 This repository is public so the structure can be shared. Do not put secrets, private customer information, unreleased plans, or unlicensed assets in it.
