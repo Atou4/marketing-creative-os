@@ -1,0 +1,13 @@
+{
+  "checked": "2026-09-06",
+  "sources": {
+    "higgsfield": "https://github.com/higgsfield-ai/skills",
+    "marketing-skills": "https://github.com/coreyhaines31/marketingskills",
+    "langchain-social": "https://github.com/langchain-ai/social-media-agent",
+    "microsoft-agentic-marketing": "https://github.com/microsoft/Agent-Framework-Samples/tree/main/09.Cases/AgenticMarketingContentGen",
+    "socialflow": "https://github.com/inbharatai/SocialFlow",
+    "simplicio": "https://github.com/wesleysimplicio/simplicio-loop-marketing",
+    "ai-copywriter": "https://github.com/mikiarlo3/ai-copywriter",
+    "winner-forge": "https://winner-forge-visual-command-os.vercel.app/winner-forge.html#catalogue"
+  }
+}
