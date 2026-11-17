@@ -10,6 +10,7 @@ description: Use for marketing strategy, social posts, ad creative, carousels, r
 - Static social: `10-Agent-Skills/social-static/SKILL.md`
 - Carousel: `10-Agent-Skills/carousel/SKILL.md`
 - Reel/Short: `10-Agent-Skills/reel/SKILL.md`
+- Video production (demo, explainer, launch video, end to end): `10-Agent-Skills/video-production/SKILL.md`
 - UGC: `10-Agent-Skills/ugc/SKILL.md`
 - Paid ad: `10-Agent-Skills/paid-ad/SKILL.md`
 - Repurposing: `10-Agent-Skills/repurpose/SKILL.md`
